@@ -8,7 +8,7 @@ public class SetMatrixZeros {
     int[][] temp = new int[l][r];
     for (int i = 0; i < l; i++) {
       for (int j = 0; j < r; j++) {
-        temp[i][j] = matrix[i][j]
+        temp[i][j] = matrix[i][j];
       }
     }
     for (int i = 0; i < l; i++) {
