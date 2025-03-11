@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 public class RemoveOutermostParenthesis {
   public String removeOuterParentheses(String s) {
     StringBuilder res = new StringBuilder("");

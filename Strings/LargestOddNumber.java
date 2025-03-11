@@ -1,5 +1,3 @@
-package Strings;
-
 public class LargestOddNumber {
   public String largestOddNumber(String num) {
     int len = num.length();
